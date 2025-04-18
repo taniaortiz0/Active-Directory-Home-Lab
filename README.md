@@ -1,1 +1,1 @@
-# AD-GPM-with-PowerShell-Automation
+# Active Directory Group Policy Management with PowerShell Automation
