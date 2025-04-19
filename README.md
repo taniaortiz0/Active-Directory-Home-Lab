@@ -29,3 +29,8 @@ I went ahead and got into the Windows Administrative Tools then into Active Dire
 ![image](https://github.com/user-attachments/assets/cb757ab0-767e-47af-8b93-c62316c455ef)
 
 Next, I installed and configured RAS (Remote Access Server) with NAT (Network Address Translation). The Windows 11 client will be in a private-virtual network, but still be able to access the Internet through the DC. 
+
+![DHCP](https://github.com/user-attachments/assets/fdbd4e46-b9fc-4c6c-876e-7ec53647f126)
+
+
+Next, I installed DHCP Server for the Windows 11 client to get an IP address which will give it access to the Internet meanwhile, it's in a private-internal network.
