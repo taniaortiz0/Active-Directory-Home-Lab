@@ -21,3 +21,5 @@ Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
 ![AD DS 2](https://github.com/user-attachments/assets/b4aa0c3d-4292-4010-ba37-2b3721f18932)
 
 I went to the Local Server to see my Domain being listed on the Properties section. 
+
+** Continue with this stopped on [21:07] tutorial video **
