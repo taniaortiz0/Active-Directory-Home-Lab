@@ -26,4 +26,6 @@ I went to the Local Server to see my Domain being listed on the Properties secti
 
 I went ahead and got into the Windows Administrative Tools then into Active Directory Users and Computers to create Organizational Units (OUs). This includes a domain admin account, 
 
-Next, I installed RAS (Remote Access Server) and this will go along with NAT (Network Address Translation). The Windows 11 client will be in a private-virtual network, but still be able to access the Internet through the DC. 
+![image](https://github.com/user-attachments/assets/cb757ab0-767e-47af-8b93-c62316c455ef)
+
+Next, I installed and configured RAS (Remote Access Server) with NAT (Network Address Translation). The Windows 11 client will be in a private-virtual network, but still be able to access the Internet through the DC. 
