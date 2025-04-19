@@ -34,3 +34,6 @@ Next, I installed and configured RAS (Remote Access Server) with NAT (Network Ad
 
 
 Next, I installed DHCP Server for the Windows 11 client to get an IP address which will give it access to the Internet meanwhile, it's in a private-internal network.
+
+
+Next, I utilized a custom PowerShell script to create multiple users for the AD Lab.
