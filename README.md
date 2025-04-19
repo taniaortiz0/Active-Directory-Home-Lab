@@ -1,4 +1,4 @@
-# Active Directory Group Policy Management with PowerShell Automation
+# Active Directory Home Lab
 
 ● Configured Windows Server 2022 as my Domain Controller (DC) and attached Windows 11 VM to domain.
 ● Created domain users, organizational units, and groups using Active Directory (AD) and assigned folders/permissions.
