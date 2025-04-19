@@ -22,4 +22,8 @@ Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
 
 I went to the Local Server to see my Domain being listed on the Properties section. 
 
+
+
+I went ahead and got into the Windows Administrative Tools then into Active Directory Users and Computers to create Organizational Units (OUs). 
+
 **Continue with this stopped on [21:07] tutorial video]**
