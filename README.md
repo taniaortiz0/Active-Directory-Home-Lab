@@ -7,4 +7,10 @@
 
 ![Windows Server 2022](https://github.com/user-attachments/assets/686d0760-915e-4029-ac08-00b2123c08e6)
 
-Configured Windows Server 2022 as my Domain Controller (DC)
+Configured Windows Server 2022 as my Domain Controller (DC) and this will be utilized as the Default Gateway for the two NICs. 
+
+
+Included two Network Adapters, one is to attach to NAT (Internet) and other one is to the Internal Network (Isolated). 
+I then configured the Internal Network to set up the IP address, subnet mask, and DNS.
+
+Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
