@@ -14,6 +14,10 @@ Configured Windows Server 2022 as my Domain Controller (DC) and this will be uti
 Included two Network Adapters, one is to attach to NAT (Internet) and other one is to the Internal Network (Isolated). 
 I then configured the Internal Network to set up the IP address, subnet mask, and DNS.
 
+![AD DS](https://github.com/user-attachments/assets/383fb88e-41bb-492d-9bc7-858e74cab26b)
 
+Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
 
-Next, I Installed AD DS (Active Directory Domain Services) and created a domain. 
+![AD DS 2](https://github.com/user-attachments/assets/b4aa0c3d-4292-4010-ba37-2b3721f18932)
+
+I went to the Local Server to see my Domain being listed on the Properties section. 
