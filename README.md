@@ -18,7 +18,7 @@ I then configured the Internal Network to set up the IP address, subnet mask, an
 
 Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
 
-![AD DS 2](https://github.com/user-attachments/assets/b4aa0c3d-4292-4010-ba37-2b3721f18932)
+![image](https://github.com/user-attachments/assets/a789aaa0-0983-4311-ad63-602c99ba09fe)
 
 I went to the Local Server to see my Domain being listed on the Properties section. 
 
