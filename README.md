@@ -37,7 +37,7 @@ Next, I installed DHCP Server for the Windows 11 client to get an IP address whi
 
 ![powershell ise 2](https://github.com/user-attachments/assets/ae80e8bd-e1d7-4423-87c7-be2459d8ca98)
 
-I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and executed the PowerShell script using [AD_PS](https://github.com/taniaortiz0/AD_PS)
+I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and executed the PowerShell script [AD_PS](https://github.com/taniaortiz0/AD_PS)
 
 ![POWERSHELL Script generated +1000 users](https://github.com/user-attachments/assets/5874c100-28a7-4914-ae5f-8e8a483e3cea)
 
