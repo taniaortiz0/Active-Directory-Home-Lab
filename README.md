@@ -1,9 +1,9 @@
 # Active Directory Home Lab (In-Progress)
 
-● Configured Windows Server 2022 as my Domain Controller (DC) and attached Windows 11 VM to domain.
+# Editing this ● Configured Windows Server 2022 as my Domain Controller (DC) and attached Windows 11 VM to domain.
 ● Created domain users, organizational units, and groups using Active Directory (AD) and assigned folders/permissions.
 ● Implementation and Management of Group Policy Objects along with maintenance on Windows DNS and DHCP services.
-● Automated tasks using PowerShell for the creation of AD users with its parameters and resetting AD passwords.
+● Automated tasks using PowerShell for the creation of AD users with its parameters and resetting AD passwords. #
 
 ![Windows Server 2022](https://github.com/user-attachments/assets/686d0760-915e-4029-ac08-00b2123c08e6)
 
@@ -37,10 +37,12 @@ Next, I installed DHCP Server for the Windows 11 client to get an IP address whi
 
 ![powershell ise 2](https://github.com/user-attachments/assets/ae80e8bd-e1d7-4423-87c7-be2459d8ca98)
 
-I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and went to the PowerShell script to run it.
+I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and executed the PowerShell script using [AD_PS](https://github.com/taniaortiz0/AD_PS)
 
 ![POWERSHELL Script generated +1000 users](https://github.com/user-attachments/assets/5874c100-28a7-4914-ae5f-8e8a483e3cea)
 
 As we see, the custom PowerShell script created (1000+) users for the AD Lab.
+
+
 
 Windows 11 VM will act as an Internal NIC and will be able to obtain its IP address from the DHCP Server that I configured.
