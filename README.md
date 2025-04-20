@@ -37,8 +37,10 @@ Next, I installed DHCP Server for the Windows 11 client to get an IP address whi
 
 ![powershell ise 2](https://github.com/user-attachments/assets/ae80e8bd-e1d7-4423-87c7-be2459d8ca98)
 
+I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and went to the PowerShell script to run it.
+
 ![POWERSHELL Script generated +1000 users](https://github.com/user-attachments/assets/5874c100-28a7-4914-ae5f-8e8a483e3cea)
 
-Next, I utilized a custom PowerShell script to create multiple users (1000+) for the AD Lab.
+As we see, the custom PowerShell script created (1000+) users for the AD Lab.
 
 Windows 11 VM will act as an Internal NIC and will be able to obtain its IP address from the DHCP Server that I configured.
