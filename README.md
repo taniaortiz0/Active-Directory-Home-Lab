@@ -44,6 +44,17 @@ As we see, the custom PowerShell script created (1000+) users for the AD Lab.
 
 ![wINDOWS 11 BYPASS](https://github.com/user-attachments/assets/9b033512-7ae2-4385-b736-94c734cf3556)
 
-I then configured Windows 11 for it to act as an Internal NIC and being able to obtain its IP address from the DHCP Server that I configured.
+For Windows 11 to be in a private-internal network, it needs to be bypassed through the network settings and act as an Internal NIC. The Client is going to obtain the IP address from the DHCP Server I've configured.
+
+![DHCP route](https://github.com/user-attachments/assets/1a062e52-203d-4efd-876a-8a51b6166681)
 
 
+As the Client doesn't have a default gateway I included a Router through the DHCP Server Options and a loopback address.
+
+![Address Leases](https://github.com/user-attachments/assets/3454249e-eda7-4285-bdcf-26bb02cd582b)
+
+I then configured my Windows 11 Client for it to be a member of mydomain.com. We can verify this through the Address Leases on my Domain Controller.
+
+![cmd whoami](https://github.com/user-attachments/assets/dc4a3936-67c9-47a8-bc72-8302b3a7cca9)
+
+Finally, I logged in to my Client through the domain, MYDOMAIN and verified I am in.
