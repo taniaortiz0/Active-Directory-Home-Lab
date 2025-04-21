@@ -22,9 +22,9 @@ Next, I Installed AD DS (Active Directory Domain Services) and created a domain.
 
 I went to the Local Server to see my Domain being listed on the Properties section. 
 
+![domain admin](https://github.com/user-attachments/assets/6a71c432-4ba4-45d4-9e9f-0faabf9398b8)
 
-
-I went ahead and got into the Windows Administrative Tools then into Active Directory Users and Computers to create Organizational Units (OUs). This includes a domain admin account, 
+I went ahead and got into the Windows Administrative Tools then into Active Directory Users and Computers to create a domain admin account. 
 
 ![image](https://github.com/user-attachments/assets/cb757ab0-767e-47af-8b93-c62316c455ef)
 
@@ -37,7 +37,7 @@ Next, I installed DHCP Server for the Windows 11 client to get an IP address whi
 
 ![powershell ise 2](https://github.com/user-attachments/assets/ae80e8bd-e1d7-4423-87c7-be2459d8ca98)
 
-I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and executed the PowerShell script [AD_PS](https://github.com/taniaortiz0/AD_PS)
+I utilize the command Set-ExecutionPolicy Unrestricted to be able to run PowerShell scripts that are download from the Internet. I then switched directories and executed the PowerShell script from this forked repository. [AD_PS](https://github.com/taniaortiz0/AD_PS)
 
 ![POWERSHELL Script generated +1000 users](https://github.com/user-attachments/assets/5874c100-28a7-4914-ae5f-8e8a483e3cea)
 
