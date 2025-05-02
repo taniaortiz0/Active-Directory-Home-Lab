@@ -64,3 +64,7 @@ I then configured my Windows 11 Client for it to be a member of mydomain.com. We
 
 
 Finally, I logged in to my Client through the domain, MYDOMAIN and verified I am in.
+
+References:
+
+Josh Madakor, Youtuber in the cybersecurity/information technology field. 
