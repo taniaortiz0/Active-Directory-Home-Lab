@@ -77,6 +77,8 @@ I then configured my Windows 11 Client for it to be a member of mydomain.com. We
 
 Finally, I logged in to my Client through the domain, MYDOMAIN and verified I am in.
 
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 #### Conclusion:
 
 As I completed the setup of my Active Directory Home Lab using the various tools listed and obtaining over a thousand users, I am ready to create a corporate network simulation to implement security strategies.
