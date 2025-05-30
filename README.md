@@ -55,7 +55,7 @@ Next, I installed DHCP Server for the Windows 11 client to get an IP address whi
 
 
 
-I downloaded a custom powershell script and a text file (names of users) to create (+1000) users for the AD Lab.
+I downloaded a custom powershell script and a text file (names of users) to create (+1000) users for the AD Lab. I edited the powershell script to implement password security.
 
 ![powershell ise 2](https://github.com/user-attachments/assets/ae80e8bd-e1d7-4423-87c7-be2459d8ca98)
 
