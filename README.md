@@ -1,6 +1,6 @@
 # Active Directory Home Lab 
 
-This project is to build an Active Directory Home Lab which will then be utilized to create a simulated corporate network with security practices. 
+This project is to build an Active Directory Home Lab which will then be utilized to create a corporate network simulation with security practices. 
 
 ## 🛠️ Tools Used
 ________________________________________________________________________________________________
@@ -76,6 +76,10 @@ I then configured my Windows 11 Client for it to be a member of mydomain.com. We
 ![cmd whoami](https://github.com/user-attachments/assets/dc4a3936-67c9-47a8-bc72-8302b3a7cca9)
 
 Finally, I logged in to my Client through the domain, MYDOMAIN and verified I am in.
+
+#### Conclusion:
+
+As I completed the setup of my Active Directory Home Lab using the various tools listed and obtaining over a thousand users, I am ready to create a corporate network simulation to implement security strategies.
 
 #### References:
 
