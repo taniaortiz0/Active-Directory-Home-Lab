@@ -7,7 +7,6 @@ ________________________________________________________________________________
 
 * VMWare Workstation Pro17
 * PowerShell
-* PFSense
 * Windows 11
 * Windows Server 2022
 
