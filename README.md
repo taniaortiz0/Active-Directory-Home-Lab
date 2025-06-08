@@ -1,5 +1,7 @@
 # Active Directory Home Lab 
 
+## ✍️ Introduction
+
 This project is to build an Active Directory Home Lab which will then be utilized to create a corporate network simulation with security practices. 
 
 ## 🛠️ Tools Used
@@ -78,10 +80,10 @@ Finally, I logged in to my Client through the domain, MYDOMAIN and verified I am
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#### Conclusion:
+## Conclusion
 
 As I completed the setup of my Active Directory Home Lab using the various tools listed and obtaining over a thousand users, I am ready to create a corporate network simulation to implement security strategies.
 
-#### References:
+## References
 
 Josh Madakor, Youtuber in the cybersecurity/information technology field. 
