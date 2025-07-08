@@ -18,7 +18,7 @@ foreach ($n in $FIRST_LAST_NAMES) {
                -DisplayName $username `
                -Name $username `
                -EmployeeID $username `
-               -PasswordNeverExpires $false `
+               -PasswordNeverExpires $true `
                -Path "ou=_USERS.$(([ADSI]`"").distinguishedName)" `
                -Enabled $true
 }
