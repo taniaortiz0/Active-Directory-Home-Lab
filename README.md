@@ -84,6 +84,6 @@ ________________________________________________________________________________
 
 As I completed the setup of my Active Directory Home Lab using the various tools listed and obtaining over a thousand users, I am ready to create a corporate network simulation to implement security strategies.
 
-## References
+## Source
 
 Josh Madakor, Youtuber in the cybersecurity/information technology field. 
